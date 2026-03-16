@@ -2,7 +2,7 @@ class Squirrelstack < Formula
   desc "CLI for SquirrelStack error management"
   homepage "https://github.com/futuremill/squirrelstack-cli"
   url "https://github.com/futuremill/squirrelstack-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0020b87a33473d24e7ea943113001e07e808738ff18bb578eb9a3471f65a7efe"
+  sha256 "efc21462c10cbaf9be6c56af404c082ca199f4b4f0c62b002c23b66998cbcc50"
   license :cannot_represent
 
   def install
